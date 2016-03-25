@@ -20,6 +20,6 @@ public class LoginActivity extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         //这是登陆
-        //提交
+        //dd
     }
 }
