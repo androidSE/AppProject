@@ -21,5 +21,6 @@ public class LoginActivity extends Activity{
         setContentView(R.layout.activity_login);
         //这是登陆
         //dd
+        //aaa
     }
 }
