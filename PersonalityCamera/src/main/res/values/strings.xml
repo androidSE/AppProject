@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">PersonalityCamera</string>
+    <string name="app_name">个性拍</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="back_str">返回</string>
 </resources>
